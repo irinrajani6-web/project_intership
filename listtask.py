@@ -10,3 +10,6 @@ print("After Update:", students)
 
 students.remove("Ali")
 print("After Delete:", students)
+
+students.clear()
+print("After Delete All Elements:", students)
